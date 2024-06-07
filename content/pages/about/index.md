@@ -1,13 +1,15 @@
 +++
 title = "About me"
 draft = false
+image = "lilobgghibli.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
-![](/img/default-author.jpg)
 
-## My Name
 
-mail@example.org
+![]()
 
-Here should be some info about me...
+## Alice Lettens
+
+a.lettens@protonmail.com
+
+Gymnasium Kirchenfeld
