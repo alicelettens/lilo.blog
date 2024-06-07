@@ -19,7 +19,7 @@ Eine wichtige Erkenntnis ist, dass nie nur ein Gen was auslöst. Es sei immer ei
 
 {{<box>}}
 
-Chronische Krankheiten ruhen nicht nur auf die genetische Vererbung, sondern sind ein Ergebnis einer Kombinati-on von genetisch, physiologischen, umweltbedingten und verhaltensbedingten Faktoren.
+Chronische Krankheiten ruhen nicht nur auf die genetische Vererbung, sondern sind ein Ergebnis einer Kombination von genetisch, physiologischen, umweltbedingten und verhaltensbedingten Faktoren.
 
 {{</box>}}
 
@@ -48,6 +48,8 @@ Eine schlechte Umgebung führt zu negativen Emotionen, welche die Gesundheit gef
 # Wie können Sie sich helfen?
 
 Ganz generell kann man das einfach beantworten. Achten Sie auf sich. Werden Sie sich bewusst, dass was Sie konsumieren nicht einfach verschwindet ohne jegliche Konsequenzen, auch wenn Sie diese nicht direkt sehen oder spüren können. Schauen Sie, dass Sie nicht zu viel Stress in ihr Leben erlauben, vor allem nicht langfristig. Wie Marion Simon empfehlt: „Vermeide das schnelle Leben.“ Seien Sie sich aber auch bewusst, dass am Ende des Tages nicht alles in ihrer Hand liegt und manches passiert einfach so. Der Körper ist eine komplexe Sache. Man muss sich um sich selbst Sorge heben. Seine Grenzen kennen, aber auch die negativen Begleiterscheinungen ihres Lebensstils erkennen und zu mildern, um möglichst zu probieren Krankheiten vorzubeugen. Chronisch Kranke wie Ivo Späth erkennen zwar die Gefahren in ihrem Alltag durch die Krankheit, aber wissen auch, dass es in Ordnung ist sich auch mal etwas zu erlauben. 
+
+
 
 # Begriffserklärung
 
