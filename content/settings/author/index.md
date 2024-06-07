@@ -2,5 +2,5 @@
 headless = true
 name = "Alice Lettens"
 image = "/media/lilobgghibli.jpg"
-url = "/about/"
+url = "/profil/"
 +++
