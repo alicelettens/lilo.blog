@@ -9,6 +9,8 @@ footnotes = "**Quellenverzeichnis**\\\nRedakteur unbekannt: Chronische Erkrankun
 +++
 {{<lead>}} Welche Rolle spielen unsere Ernährung und Emotionen für unsere Gesundheit? Kann ein schlechter Lebensstil gewisse chronische Krankheiten auslösen? Experten beobachten einen Anstieg an Diagnosen von chronischen Krankheiten. Was kann man selbst dagegen machen? {{</lead>}}
 
+von Alice Lettens und Katalin Pospisek
+
 Im belebten Zentrum der Altstadt Bern laufen die Menschen an einem schnell, langsam und rennend vorbei. Von allen Seiten hört man die Geräusche einer Stadt: Das Klingeln der Strassenbahn, Busse und das Gurren der Tauben. Zusammen kreiert es eine wahrlich überwältigende Tonlandschaft. Wenn man hochschaut, sieht man die berühmte Zytglogge mit seinem schönen goldigen Zeiger und seinen Bemalungen. Die grüne Spitze ragt in den Himmel und bringt einen wunderbaren Kontrast zu den roten Dächern der Häuser. Die Zytglogge, das Zentrum der Verwirrung, wo sich alle in eine unterschiedliche Richtung bewegen. Da steht vor der kleinen süssen Apotheke rechts der Zytglogge ein grosser Mann, mit einer Brille und Mütze auf dem Kopf. Ivo Späth, jemand, der schon in seiner Jugend, mit Typ I Diabetes diagnostiziert wurde. Nur wenig weit entfernt steht das majestätische Gebäude der Kornhausbibliothek, wo das Interview stattgefunden hat. Links und rechts reihen sich viele Regale voll Bücher aller Grössen und Farben. Ein belebter Ort für alle, mit Tischen, Sofas und Computer. Hier erzählt Ivo Späth von seinem Leben als Diabetiker Typ 1. 
 
 # Genetik
